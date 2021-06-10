@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Dhruv 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m Data Enthusiast Guy..😍
+- 🌱 I’m currently learning Machine Learning || Big Data || AI 💻
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 sag-dhruv/sag-dhruv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
